@@ -1,0 +1,1231 @@
+14-Mar-2024 00:22:08.902 SEVERE [http-nio-9999-exec-310] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [176] in the jsp file: [/checkoutCart.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+173: 
+174: 
+175:                                         <%
+176:                                             }
+177:                                         %>
+178:                                     </tbody>
+179:                                 </table>
+
+
+An error occurred at line: [187] in the jsp file: [/checkoutCart.jsp]
+totAmount cannot be resolved to a variable
+184:                                     </form></td>
+185:                                 <td colspan="2" align="center"><form method="post">
+186:                                         <button style="background-color: blue; color: white;"
+187:                                                 formaction="payment.jsp?amount=<%=totAmount%>">Checkout</button>
+188:                                     </form></td>
+189: 
+190:                             </div>
+
+
+An error occurred at line: [433] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [435] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [435] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [436] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [436] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [438] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [439] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [441] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [444] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [444] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [447] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [448] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [176] in the jsp file: [/checkoutCart.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+173: 
+174: 
+175:                                         <%
+176:                                             }
+177:                                         %>
+178:                                     </tbody>
+179:                                 </table>
+
+
+An error occurred at line: [187] in the jsp file: [/checkoutCart.jsp]
+totAmount cannot be resolved to a variable
+184:                                     </form></td>
+185:                                 <td colspan="2" align="center"><form method="post">
+186:                                         <button style="background-color: blue; color: white;"
+187:                                                 formaction="payment.jsp?amount=<%=totAmount%>">Checkout</button>
+188:                                     </form></td>
+189: 
+190:                             </div>
+
+
+An error occurred at line: [433] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [435] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [435] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [436] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [436] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [438] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [439] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [441] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [444] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [444] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [447] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [448] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:520)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:397)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:367)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:351)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:399)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 00:22:34.760 SEVERE [http-nio-9999-exec-311] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [187] in the jsp file: [/checkoutCart.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+184: 
+185:                                         </tr>
+186:                                         <%
+187:                                             }
+188:                                         %>
+189:                                     </tbody>
+190:                                 </table>
+
+
+An error occurred at line: [434] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [436] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [436] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [437] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [437] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [439] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [440] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [442] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [445] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [445] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [448] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [449] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [187] in the jsp file: [/checkoutCart.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+184: 
+185:                                         </tr>
+186:                                         <%
+187:                                             }
+188:                                         %>
+189:                                     </tbody>
+190:                                 </table>
+
+
+An error occurred at line: [434] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [436] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [436] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [437] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [437] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [439] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [440] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [442] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [445] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [445] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [448] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [449] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\checkoutCart_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:520)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:397)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:367)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:351)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:399)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 08:16:19.923 SEVERE [http-nio-9999-exec-329] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [20] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\index_jsp.java]
+Only a type can be imported. org.json.JSONObject resolves to a package
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [20] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\index_jsp.java]
+Only a type can be imported. org.json.JSONObject resolves to a package
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:520)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:397)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:367)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:351)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:399)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 08:16:53.109 SEVERE [http-nio-9999-exec-332] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [18] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\login_jsp.java]
+Only a type can be imported. org.json.JSONObject resolves to a package
+
+An error occurred at line: [53] in the jsp file: [/header.jsp]
+JSONObject cannot be resolved to a type
+50: 
+51:     int count = 0;
+52:     if (cartJson != null) {
+53:         JSONObject cart = new JSONObject(cartJson);
+54:         Iterator<String> keys = cart.keys();
+55:         while (keys.hasNext()) {
+56:             String key = keys.next();
+
+
+An error occurred at line: [53] in the jsp file: [/header.jsp]
+JSONObject cannot be resolved to a type
+50: 
+51:     int count = 0;
+52:     if (cartJson != null) {
+53:         JSONObject cart = new JSONObject(cartJson);
+54:         Iterator<String> keys = cart.keys();
+55:         while (keys.hasNext()) {
+56:             String key = keys.next();
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [18] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\login_jsp.java]
+Only a type can be imported. org.json.JSONObject resolves to a package
+
+An error occurred at line: [53] in the jsp file: [/header.jsp]
+JSONObject cannot be resolved to a type
+50: 
+51:     int count = 0;
+52:     if (cartJson != null) {
+53:         JSONObject cart = new JSONObject(cartJson);
+54:         Iterator<String> keys = cart.keys();
+55:         while (keys.hasNext()) {
+56:             String key = keys.next();
+
+
+An error occurred at line: [53] in the jsp file: [/header.jsp]
+JSONObject cannot be resolved to a type
+50: 
+51:     int count = 0;
+52:     if (cartJson != null) {
+53:         JSONObject cart = new JSONObject(cartJson);
+54:         Iterator<String> keys = cart.keys();
+55:         while (keys.hasNext()) {
+56:             String key = keys.next();
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:520)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:397)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:367)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:351)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:399)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 08:18:13.589 SEVERE [http-nio-9999-exec-356] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [20] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\index_jsp.java]
+Only a type can be imported. org.json.JSONObject resolves to a package
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [20] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\index_jsp.java]
+Only a type can be imported. org.json.JSONObject resolves to a package
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:520)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:397)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:367)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:351)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:399)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 08:22:47.952 SEVERE [http-nio-9999-exec-349] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [An exception occurred processing [/index.jsp] at line [38]
+
+35:                 if (search != null || type != null) {
+36:                     products = prodDao.searchAllProducts(search, type);
+37:                 } else {
+38:                     products = prodDao.getAllProducts();
+39:                 }
+40:                 if (products.isEmpty()) {
+41:                     message = "No items found for the search '" + (search != null ? search : type) + "'";
+
+
+Stacktrace:] with root cause
+	java.lang.NumberFormatException: For input string: "mobile"
+		at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
+		at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+		at java.lang.Double.parseDouble(Double.java:538)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.getDouble(MysqlTextValueDecoder.java:249)
+		at com.mysql.cj.result.AbstractNumericValueFactory.createFromBytes(AbstractNumericValueFactory.java:56)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.decodeByteArray(MysqlTextValueDecoder.java:143)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.decodeAndCreateReturnValue(AbstractResultsetRow.java:135)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.getValueFromBytes(AbstractResultsetRow.java:243)
+		at com.mysql.cj.protocol.a.result.TextBufferRow.getValue(TextBufferRow.java:132)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getObject(ResultSetImpl.java:1324)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getInt(ResultSetImpl.java:830)
+		at com.shashi.service.impl.ProductServiceImpl.getAllProducts(ProductServiceImpl.java:206)
+		at org.apache.jsp.index_jsp._jspService(index_jsp.java:168)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 08:24:33.953 SEVERE [http-nio-9999-exec-371] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [An exception occurred processing [/index.jsp] at line [38]
+
+35:                 if (search != null || type != null) {
+36:                     products = prodDao.searchAllProducts(search, type);
+37:                 } else {
+38:                     products = prodDao.getAllProducts();
+39:                 }
+40:                 if (products.isEmpty()) {
+41:                     message = "No items found for the search '" + (search != null ? search : type) + "'";
+
+
+Stacktrace:] with root cause
+	java.lang.NumberFormatException: For input string: "mobile"
+		at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
+		at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+		at java.lang.Double.parseDouble(Double.java:538)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.getDouble(MysqlTextValueDecoder.java:249)
+		at com.mysql.cj.result.AbstractNumericValueFactory.createFromBytes(AbstractNumericValueFactory.java:56)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.decodeByteArray(MysqlTextValueDecoder.java:143)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.decodeAndCreateReturnValue(AbstractResultsetRow.java:135)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.getValueFromBytes(AbstractResultsetRow.java:243)
+		at com.mysql.cj.protocol.a.result.TextBufferRow.getValue(TextBufferRow.java:132)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getObject(ResultSetImpl.java:1324)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getInt(ResultSetImpl.java:830)
+		at com.shashi.service.impl.ProductServiceImpl.getAllProducts(ProductServiceImpl.java:206)
+		at org.apache.jsp.index_jsp._jspService(index_jsp.java:168)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 08:25:49.767 SEVERE [http-nio-9999-exec-379] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [An exception occurred processing [/index.jsp] at line [38]
+
+35:                 if (search != null || type != null) {
+36:                     products = prodDao.searchAllProducts(search, type);
+37:                 } else {
+38:                     products = prodDao.getAllProducts();
+39:                 }
+40:                 if (products.isEmpty()) {
+41:                     message = "No items found for the search '" + (search != null ? search : type) + "'";
+
+
+Stacktrace:] with root cause
+	java.lang.NumberFormatException: For input string: "mobile"
+		at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
+		at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+		at java.lang.Double.parseDouble(Double.java:538)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.getDouble(MysqlTextValueDecoder.java:249)
+		at com.mysql.cj.result.AbstractNumericValueFactory.createFromBytes(AbstractNumericValueFactory.java:56)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.decodeByteArray(MysqlTextValueDecoder.java:143)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.decodeAndCreateReturnValue(AbstractResultsetRow.java:135)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.getValueFromBytes(AbstractResultsetRow.java:243)
+		at com.mysql.cj.protocol.a.result.TextBufferRow.getValue(TextBufferRow.java:132)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getObject(ResultSetImpl.java:1324)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getInt(ResultSetImpl.java:830)
+		at com.shashi.service.impl.ProductServiceImpl.getAllProducts(ProductServiceImpl.java:206)
+		at org.apache.jsp.index_jsp._jspService(index_jsp.java:168)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 08:27:25.683 SEVERE [http-nio-9999-exec-365] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [An exception occurred processing [index.jsp] at line [38]
+
+35:                 if (search != null || type != null) {
+36:                     products = prodDao.searchAllProducts(search, type);
+37:                 } else {
+38:                     products = prodDao.getAllProducts();
+39:                 }
+40:                 if (products.isEmpty()) {
+41:                     message = "No items found for the search '" + (search != null ? search : type) + "'";
+
+
+Stacktrace:] with root cause
+	java.lang.NumberFormatException: For input string: "mobile"
+		at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
+		at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+		at java.lang.Double.parseDouble(Double.java:538)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.getDouble(MysqlTextValueDecoder.java:249)
+		at com.mysql.cj.result.AbstractNumericValueFactory.createFromBytes(AbstractNumericValueFactory.java:56)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.decodeByteArray(MysqlTextValueDecoder.java:143)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.decodeAndCreateReturnValue(AbstractResultsetRow.java:135)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.getValueFromBytes(AbstractResultsetRow.java:243)
+		at com.mysql.cj.protocol.a.result.TextBufferRow.getValue(TextBufferRow.java:132)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getObject(ResultSetImpl.java:1324)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getInt(ResultSetImpl.java:830)
+		at com.shashi.service.impl.ProductServiceImpl.getAllProducts(ProductServiceImpl.java:206)
+		at org.apache.jsp.index_jsp._jspService(index_jsp.java:168)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 08:28:48.044 SEVERE [http-nio-9999-exec-393] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [An exception occurred processing [/index.jsp] at line [38]
+
+35:                 if (search != null || type != null) {
+36:                     products = prodDao.searchAllProducts(search, type);
+37:                 } else {
+38:                     products = prodDao.getAllProducts();
+39:                 }
+40:                 if (products.isEmpty()) {
+41:                     message = "No items found for the search '" + (search != null ? search : type) + "'";
+
+
+Stacktrace:] with root cause
+	java.lang.NumberFormatException: For input string: "mobile"
+		at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
+		at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+		at java.lang.Double.parseDouble(Double.java:538)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.getDouble(MysqlTextValueDecoder.java:249)
+		at com.mysql.cj.result.AbstractNumericValueFactory.createFromBytes(AbstractNumericValueFactory.java:56)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.decodeByteArray(MysqlTextValueDecoder.java:143)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.decodeAndCreateReturnValue(AbstractResultsetRow.java:135)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.getValueFromBytes(AbstractResultsetRow.java:243)
+		at com.mysql.cj.protocol.a.result.TextBufferRow.getValue(TextBufferRow.java:132)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getObject(ResultSetImpl.java:1324)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getInt(ResultSetImpl.java:830)
+		at com.shashi.service.impl.ProductServiceImpl.getAllProducts(ProductServiceImpl.java:206)
+		at org.apache.jsp.index_jsp._jspService(index_jsp.java:168)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 08:30:45.673 SEVERE [http-nio-9999-exec-381] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [An exception occurred processing [/index.jsp] at line [38]
+
+35:                 if (search != null || type != null) {
+36:                     products = prodDao.searchAllProducts(search, type);
+37:                 } else {
+38:                     products = prodDao.getAllProducts();
+39:                 }
+40:                 if (products.isEmpty()) {
+41:                     message = "No items found for the search '" + (search != null ? search : type) + "'";
+
+
+Stacktrace:] with root cause
+	java.lang.NumberFormatException: For input string: "mobile"
+		at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
+		at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+		at java.lang.Double.parseDouble(Double.java:538)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.getDouble(MysqlTextValueDecoder.java:249)
+		at com.mysql.cj.result.AbstractNumericValueFactory.createFromBytes(AbstractNumericValueFactory.java:56)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.decodeByteArray(MysqlTextValueDecoder.java:143)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.decodeAndCreateReturnValue(AbstractResultsetRow.java:135)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.getValueFromBytes(AbstractResultsetRow.java:243)
+		at com.mysql.cj.protocol.a.result.TextBufferRow.getValue(TextBufferRow.java:132)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getObject(ResultSetImpl.java:1324)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getInt(ResultSetImpl.java:830)
+		at com.shashi.service.impl.ProductServiceImpl.getAllProducts(ProductServiceImpl.java:206)
+		at org.apache.jsp.index_jsp._jspService(index_jsp.java:168)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 08:36:07.092 SEVERE [http-nio-9999-exec-11] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [An exception occurred processing [/index.jsp] at line [38]
+
+35:                 if (search != null || type != null) {
+36:                     products = prodDao.searchAllProducts(search, type);
+37:                 } else {
+38:                     products = prodDao.getAllProducts();
+39:                 }
+40:                 if (products.isEmpty()) {
+41:                     message = "No items found for the search '" + (search != null ? search : type) + "'";
+
+
+Stacktrace:] with root cause
+	java.lang.NumberFormatException: For input string: "mobile"
+		at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
+		at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+		at java.lang.Double.parseDouble(Double.java:538)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.getDouble(MysqlTextValueDecoder.java:249)
+		at com.mysql.cj.result.AbstractNumericValueFactory.createFromBytes(AbstractNumericValueFactory.java:56)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.decodeByteArray(MysqlTextValueDecoder.java:143)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.decodeAndCreateReturnValue(AbstractResultsetRow.java:135)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.getValueFromBytes(AbstractResultsetRow.java:243)
+		at com.mysql.cj.protocol.a.result.TextBufferRow.getValue(TextBufferRow.java:132)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getObject(ResultSetImpl.java:1324)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getInt(ResultSetImpl.java:830)
+		at com.shashi.service.impl.ProductServiceImpl.getAllProducts(ProductServiceImpl.java:206)
+		at org.apache.jsp.index_jsp._jspService(index_jsp.java:168)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 08:39:15.400 SEVERE [http-nio-9999-exec-20] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [20] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\index_jsp.java]
+Only a type can be imported. org.json.JSONObject resolves to a package
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [20] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\index_jsp.java]
+Only a type can be imported. org.json.JSONObject resolves to a package
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+An error occurred at line: [70] in the jsp file: [/index.jsp]
+JSONObject cannot be resolved to a type
+67:                             }
+68: 
+69:                             for (ProductBean product : products) {
+70:                                 JSONObject cart = (cartJson != null) ? new JSONObject(cartJson) : new JSONObject();
+71:                                 String prodId = product.getProdId();
+72:                     %>
+73:                     <div class="col-sm-4" style='height: 350px;'>
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:520)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:397)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:367)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:351)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:399)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 08:39:33.585 SEVERE [http-nio-9999-exec-17] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [18] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\login_jsp.java]
+Only a type can be imported. org.json.JSONObject resolves to a package
+
+An error occurred at line: [53] in the jsp file: [/header.jsp]
+JSONObject cannot be resolved to a type
+50: 
+51:     int count = 0;
+52:     if (cartJson != null) {
+53:         JSONObject cart = new JSONObject(cartJson);
+54:         Iterator<String> keys = cart.keys();
+55:         while (keys.hasNext()) {
+56:             String key = keys.next();
+
+
+An error occurred at line: [53] in the jsp file: [/header.jsp]
+JSONObject cannot be resolved to a type
+50: 
+51:     int count = 0;
+52:     if (cartJson != null) {
+53:         JSONObject cart = new JSONObject(cartJson);
+54:         Iterator<String> keys = cart.keys();
+55:         while (keys.hasNext()) {
+56:             String key = keys.next();
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [18] in the generated java file: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\work\Catalina\localhost\shopping-cart\org\apache\jsp\login_jsp.java]
+Only a type can be imported. org.json.JSONObject resolves to a package
+
+An error occurred at line: [53] in the jsp file: [/header.jsp]
+JSONObject cannot be resolved to a type
+50: 
+51:     int count = 0;
+52:     if (cartJson != null) {
+53:         JSONObject cart = new JSONObject(cartJson);
+54:         Iterator<String> keys = cart.keys();
+55:         while (keys.hasNext()) {
+56:             String key = keys.next();
+
+
+An error occurred at line: [53] in the jsp file: [/header.jsp]
+JSONObject cannot be resolved to a type
+50: 
+51:     int count = 0;
+52:     if (cartJson != null) {
+53:         JSONObject cart = new JSONObject(cartJson);
+54:         Iterator<String> keys = cart.keys();
+55:         while (keys.hasNext()) {
+56:             String key = keys.next();
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:520)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:397)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:367)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:351)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:399)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+14-Mar-2024 08:46:45.123 SEVERE [http-nio-9999-exec-39] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/shopping-cart] threw exception [An exception occurred processing [/index.jsp] at line [38]
+
+35:                 if (search != null || type != null) {
+36:                     products = prodDao.searchAllProducts(search, type);
+37:                 } else {
+38:                     products = prodDao.getAllProducts();
+39:                 }
+40:                 if (products.isEmpty()) {
+41:                     message = "No items found for the search '" + (search != null ? search : type) + "'";
+
+
+Stacktrace:] with root cause
+	java.lang.NumberFormatException: For input string: "mobile"
+		at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
+		at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+		at java.lang.Double.parseDouble(Double.java:538)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.getDouble(MysqlTextValueDecoder.java:249)
+		at com.mysql.cj.result.AbstractNumericValueFactory.createFromBytes(AbstractNumericValueFactory.java:56)
+		at com.mysql.cj.protocol.a.MysqlTextValueDecoder.decodeByteArray(MysqlTextValueDecoder.java:143)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.decodeAndCreateReturnValue(AbstractResultsetRow.java:135)
+		at com.mysql.cj.protocol.result.AbstractResultsetRow.getValueFromBytes(AbstractResultsetRow.java:243)
+		at com.mysql.cj.protocol.a.result.TextBufferRow.getValue(TextBufferRow.java:132)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getObject(ResultSetImpl.java:1324)
+		at com.mysql.cj.jdbc.result.ResultSetImpl.getInt(ResultSetImpl.java:830)
+		at com.shashi.service.impl.ProductServiceImpl.getAllProducts(ProductServiceImpl.java:206)
+		at org.apache.jsp.index_jsp._jspService(index_jsp.java:168)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:792)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
